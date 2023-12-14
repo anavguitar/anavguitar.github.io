@@ -1,0 +1,59 @@
+body {
+    background-color:lavender;
+}
+
+header, h2 {
+    text-align: center;
+      color:white;
+  }
+  
+header{
+      background: linear-gradient(45deg, #ff0000, #0000ff );
+      width: auto;
+  }
+  
+h2 {
+    background: linear-gradient(45deg, #00ff00, #ff0000 );
+    width: auto;
+  }
+  
+  
+table {
+    border: black solid 3px;
+    width: 100%;
+    text-align: center;
+  }
+  
+.rgb-bkg {
+     background: linear-gradient(45deg, #ff0000, #0000ff );
+     color: white;
+     text-align: center;
+     text-transform: uppercase;
+     font-weight: bold;
+  }
+  
+table td {
+    color: white;
+    text-decoration: underline white 1px;
+  }
+  
+.red-bkg {
+    background-color: rgba(200, 0, 0, 1);
+  } 
+  
+.grn-bkg {
+    background-color: #00bb00ff;
+  }
+  
+.blu-bkg {
+    background-color: hsla(240 100% 50% / 1);
+  }
+
+.prp-bkg {
+    background-color: purple;
+  }
+
+pre img {
+    width: 200px;
+    height: 200px;
+  }
