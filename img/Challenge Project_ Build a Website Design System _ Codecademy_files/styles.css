@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+legend {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.container{
+  border: solid black 2px;
+  width: auto;
+  height: 200px;
+  margin-bottom: 25px;
+}
+
+.color-box {
+  width: 25px;
+  height: 25px;
+}
